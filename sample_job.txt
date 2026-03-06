@@ -1,0 +1,45 @@
+Senior Site Reliability Engineer
+Acme Cloud Inc. — San Francisco, CA (Hybrid)
+
+About Us
+Acme Cloud is a fast-growing SaaS platform serving 50M+ users globally. Our infrastructure team ensures 99.99% uptime across a complex microservices architecture running on AWS and Kubernetes.
+
+The Role
+We're looking for a Senior SRE to join our Platform Engineering team. You'll own reliability for our core services, drive observability improvements, and build tooling that helps product engineers ship faster and safer.
+
+Responsibilities
+- Own availability and performance of production services handling 100K+ requests per second
+- Design and implement monitoring, alerting, and observability pipelines using Prometheus, Grafana, and Datadog
+- Lead incident response and conduct blameless postmortems to improve system resilience
+- Build and maintain CI/CD pipelines (GitHub Actions, ArgoCD) for 200+ microservices
+- Manage Kubernetes clusters (EKS) across multiple AWS regions
+- Implement infrastructure-as-code using Terraform and Helm
+- Drive SLO/SLI adoption across engineering teams and manage error budgets
+- Automate toil reduction — if you're doing it twice, script it
+- Participate in on-call rotation and continuously improve runbooks
+- Mentor junior SREs and collaborate with product engineering on reliability requirements
+
+Requirements
+- 5+ years of experience in SRE, DevOps, or Platform Engineering roles
+- Strong proficiency with AWS (EC2, EKS, S3, RDS, Lambda, CloudFront)
+- Deep experience with Kubernetes (deployment, networking, troubleshooting, scaling)
+- Proficiency in Python or Go for tooling and automation
+- Experience with infrastructure-as-code tools (Terraform, Pulumi, or CloudFormation)
+- Hands-on experience with observability stacks (Prometheus, Grafana, Datadog, or similar)
+- Strong understanding of networking fundamentals (TCP/IP, DNS, HTTP, load balancing)
+- Experience with CI/CD systems (GitHub Actions, Jenkins, ArgoCD, or similar)
+- Solid understanding of Linux systems internals
+- Excellent incident management and communication skills
+
+Nice to Have
+- Experience at high-scale consumer platforms (100M+ users)
+- Kubernetes certifications (CKA/CKS)
+- AWS certifications (Solutions Architect, DevOps Professional)
+- Experience with chaos engineering (Gremlin, Litmus, or custom)
+- Contributions to open-source infrastructure tooling
+- Experience with cost optimization and FinOps practices
+
+Compensation
+$190,000 - $250,000 base + equity + benefits
+
+We are an equal opportunity employer committed to building a diverse team.

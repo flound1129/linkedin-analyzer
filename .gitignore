@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+linkedin_data/
+*.pdf
+*.zip
+.claude/
